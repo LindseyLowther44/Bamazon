@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindseyLowther44/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindseyLowther44/Bamazon/issues"
+  },
+  "homepage": "https://github.com/LindseyLowther44/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table3": "^0.6.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
