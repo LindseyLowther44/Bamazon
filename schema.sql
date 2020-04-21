@@ -11,3 +11,4 @@ price DECIMAL(10,4) NULL,
 stock_quantity INTEGER(10),
 PRIMARY KEY (id)
 );
+
